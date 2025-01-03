@@ -2,7 +2,7 @@ import socket
 import time
 PORT = 12345
 SERVER_IP = "127.0.0.1"  
-
+#This python file playes the role of a client server
 def main():
     
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
