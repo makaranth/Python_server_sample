@@ -1,5 +1,5 @@
 import socket
-
+#This python file is used to send message or flag to the client  
 PORT = 12345
 print("What do you want to send to the client?")
 print("""1) Message
